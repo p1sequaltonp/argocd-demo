@@ -10,6 +10,6 @@ spec:
   project: default
   source:
     path: python-manifests
-    repoURL: https://github.com/udacity/nd064_course_1 
+    repoURL: https://github.com/p1sequaltonp/argocd-demo
     targetRevision: HEAD
   syncPolicy: {}
